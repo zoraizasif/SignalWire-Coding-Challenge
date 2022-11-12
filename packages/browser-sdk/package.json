@@ -1,0 +1,21 @@
+{
+  "name": "@signalwire/browser-sdk",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=1234 --entry-file=src/browser.html"
+  },
+  "main": "dist/bundle.js",
+  "types": "dist/browser.d.ts",
+  "type": "module",
+  "keywords": [],
+  "author": "Zoraiz Asif",
+  "license": "ISC",
+  "dependencies": {
+    "@signalwire/shared": "1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "live-server": "^1.2.2"
+  }
+}

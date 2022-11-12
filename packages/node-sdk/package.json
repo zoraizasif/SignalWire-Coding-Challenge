@@ -1,0 +1,17 @@
+{
+  "name": "@signalwire/node-sdk",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node dist/node.js"
+  },
+  "main": "dist/node.js",
+  "types": "dist/node.d.ts",
+  "keywords": [],
+  "author": "Zoraiz Asif",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.10.0",
+    "@signalwire/shared": "1.0.0"
+  }
+  
+}

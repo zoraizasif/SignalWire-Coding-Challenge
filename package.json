@@ -1,0 +1,27 @@
+{
+  "name": "signalwire",
+  "workspaces": [
+    "packages/shared",
+    "packages/node-sdk",
+    "packages/browser-sdk"
+  ],
+  "version": "1.0.0",
+  "description": "Signalwire coding assignment",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watchAll",
+    "build": "tsc --build && browserify ./packages/browser-sdk/dist/browser.js -o ./packages/browser-sdk/dist/bundle.js && npm run test"
+  },
+  "type": "module",
+  "author": "Zoraiz Asif",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.2.2",
+    "@types/node": "^18.11.9",
+    "@types/ws": "^8.5.3",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
