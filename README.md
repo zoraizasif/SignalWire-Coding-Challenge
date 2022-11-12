@@ -53,3 +53,7 @@ wss://demo.piesocket.com/v3/channel_signalwire?api_key=VCXCEuvhGcBDP7XhiJJUDvR1e
 **4:** You can see on the *Websocket Tester* Website that a new message is being sent automatically after every 5 seconds. Also, you can send messages from the *Websocket Tester* to the SDK
 
 **5:** Verify that the sent and received messages are being shown and displayed in their respective lists on the HTML file that has opened up
+
+
+### Demo + Installation Instruction Video 
+[![DEMO VIDEO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqBOsbz09nhxbQQwuysuBth3Agbkp5vkLC1MUJswSdw&s)](https://www.loom.com/share/f18f5af0eddf4545957964bf6bef22d0)
