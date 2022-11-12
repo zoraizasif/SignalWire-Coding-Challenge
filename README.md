@@ -55,5 +55,5 @@ wss://demo.piesocket.com/v3/channel_signalwire?api_key=VCXCEuvhGcBDP7XhiJJUDvR1e
 **5:** Verify that the sent and received messages are being shown and displayed in their respective lists on the HTML file that has opened up
 
 
-### Demo + Installation Instruction Video 
+### Demo + Installation Instructions Video 
 [![DEMO VIDEO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqBOsbz09nhxbQQwuysuBth3Agbkp5vkLC1MUJswSdw&s)](https://www.loom.com/share/f18f5af0eddf4545957964bf6bef22d0)
